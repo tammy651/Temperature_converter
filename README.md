@@ -1,8 +1,8 @@
 # Temperature Converter System
 ## Author
 **Balogun Afna'n Oluwatamilore
-matric: 24/15481
-department: cyber security 
+**matric: 24/15481
+**department: cyber security 
 
 ## Course
 SEN 201- Software Engineering 
